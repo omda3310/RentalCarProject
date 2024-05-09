@@ -14,7 +14,7 @@ const Contact = () => {
                     </div>
                     <div className="row">
                         <div className="col-md-6">
-                            <img src="./assets/contact1.png" alt="Contact" className="w-75 h-100" />
+                          <p>Voila</p>
                         </div>
                         <div className="col-md-6">
                             <form action="">
