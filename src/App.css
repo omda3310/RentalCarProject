@@ -1,0 +1,38 @@
+/* Home */
+#home{
+    background-color:aliceblue;
+    background-image: url("../public/assets/bg3.png");
+    min-height: 500px;
+    margin-top: -100px;
+    margin-bottom: -50px;
+    font-weight: 12;
+
+}
+
+
+/* form */
+.form{
+    background: rgb(30, 125, 233);
+    background: linear-gradient(90deg, rgb(92, 22, 232) 50%, rgb(246, 124, 173) 100%);
+}
+
+/* about */
+#About {
+    background-color: rgb(240, 247, 255);
+    
+}
+
+/* Cards */
+.card{
+    transition: all 0.5s ease;
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 0 1rem 3rem rgba(244, 14, 29, 0.15);
+}
+
+/* Footer */
+.footer{
+    background: rgb(30, 125, 233);
+    background: linear-gradient(90deg, rgb(92, 22, 232) 50%, rgb(246, 124, 173) 100%);
+}
